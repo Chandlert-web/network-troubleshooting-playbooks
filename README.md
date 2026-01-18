@@ -45,6 +45,13 @@ Playbooks cover scenarios such as:
 
 ---
 
+## Zero Trust Troubleshooting Context
+
+Troubleshooting playbooks assume a segmented, least-privilege network model. Connectivity issues
+are evaluated within the context of VLAN isolation, routing controls, and explicit access paths,
+ensuring security controls are preserved during incident response.
+
+
 ## Key Skills Demonstrated
 - Systematic troubleshooting under pressure
 - Logical isolation of network faults
